@@ -1,5 +1,12 @@
 import {Component} from "react";
+<<<<<<< Updated upstream
 
+=======
+function getRandomProperty(obj) {
+    const keys = Object.keys(obj);
+    return keys[Math.floor(Math.random() * keys.length)];
+}
+>>>>>>> Stashed changes
 class Machine extends Component{
     render(){
         const keys = Object.keys(this.props.item);
