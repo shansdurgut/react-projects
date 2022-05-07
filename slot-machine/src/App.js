@@ -8,17 +8,14 @@ class App extends Component{
       this.state = {"🍇": 1,   "🍓": 1,  "🍏":1}
   }
 
-
   render() {
-
       return (
           <div className={"Slot-machine"}>
             <h1>{"Slot Machine"}</h1>
-
             <span>
-              <Machine item = {this.state} />
-              <Machine item = {this.state} />
-              <Machine item = {this.state} />
+                <Machine item = {this.state} />
+                <Machine item = {this.state} />
+                <Machine item = {this.state} />
             </span>
           </div>
       );
