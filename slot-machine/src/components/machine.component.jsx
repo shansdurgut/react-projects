@@ -6,9 +6,11 @@ function getRandomProperty(obj) {
 }
 class Machine extends Component{
     render(){
-        const fruit1 = getRandomProperty(this.props.item);
-        const fruit2 = getRandomProperty(this.props.item);
-        const fruit3 = getRandomProperty(this.props.item);
+        const symbol = this.props.item;
+
+        const fruit1 = getRandomProperty(symbol);
+        const fruit2 = getRandomProperty(symbol);
+        const fruit3 = getRandomProperty(symbol);
         return(
             <div className={"machine"}>
                 <span>{fruit1}</span>
