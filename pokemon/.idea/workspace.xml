@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f6d39b-42fc-4f82-a703-9d6446536a91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokecard.component/pokecard.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokedex.component/pokedex.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokedex.component/pokedex.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pokecard.component/pokecard.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokecard.component/pokecard.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokecard.component/pokecard.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokecard.component/pokecard.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokedex.component/pokedex.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokedex.component/pokedex.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokedex.component/pokedex.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokedex.component/pokedex.component.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652155528168</updated>
       <workItem from="1652155529268" duration="1802000" />
-      <workItem from="1652194438552" duration="4191000" />
+      <workItem from="1652194438552" duration="6575000" />
     </task>
     <servers />
   </component>
