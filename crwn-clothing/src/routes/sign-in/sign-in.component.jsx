@@ -4,7 +4,7 @@ import {wait} from "@testing-library/user-event/dist/utils";
 const SignIn = () => {
     const logGoogleUse = async () =>{
         const {user} = await signInWithGooglePopup();
-        const userDocRef = await createUserDocumentFromAuth(user);
+        //const userDocRef = await createUserDocumentFromAuth(user);
     };
 
     return (
