@@ -1,19 +1,16 @@
 import { signInWithGooglePopup, createUserDocumentFromAuth } from "../../utils/firebase/firebase.utils";
-import {wait} from "@testing-library/user-event/dist/utils";
 
 const SignIn = () => {
-    const logGoogleUse = async () =>{
+    const logGoogleUser = async () =>{
         const {user} = await signInWithGooglePopup();
-        //const userDocRef = await createUserDocumentFromAuth(user);
+        const userDocRef = await createUserDocumentFromAuth(user);
     };
-
     return (
         <div>
-            <button onClick={logGoogleUse}>
-                Sign In With Google
+            <button onClick={logGoogleUser}>
+                Sign In With Google Popup
             </button>
         </div>
     );
 };
-
 export default SignIn;
