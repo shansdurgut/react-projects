@@ -2,8 +2,6 @@ import {Component} from "react";
 import './App.css';
 import "./clicker"
 
-
-
 class App extends Component {
   constructor() {
     super();
@@ -23,7 +21,4 @@ class App extends Component {
     );
   }
 }
-
-
-
 export default App;
