@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b02b6894-da2a-48fe-b321-7571e2c15e46" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/.idea/coin-fliper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/coin-fliper.component/Coin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/coin-fliper.component/Coin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/coin-fliper.component/CoinFliper.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coin-fliper/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +95,7 @@
       <workItem from="1652302979334" duration="2368000" />
       <workItem from="1652372047722" duration="287000" />
       <workItem from="1652373831540" duration="602000" />
+      <workItem from="1652560510081" duration="678000" />
     </task>
     <servers />
   </component>
