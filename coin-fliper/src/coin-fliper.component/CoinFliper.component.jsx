@@ -37,7 +37,7 @@ class CoinFliper extends Component{
     flippingHandler= ()=> {
         this.flipCoin();
     };
-    
+
     render() {
         return(
             <div>
